@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Abdulsalam Abubakar
-- 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on blockchain smart-contract-developer
-- 📫 How to reach me +234 8147848004
+👋 Hi, I’m Abdulsalam Abubakar, a full-stack developer proficient in React.js, Node.js, SQL, PostgreSQL, and ExpressJS. 👀 I’m deeply interested in Blockchain technology and 🌱 currently exploring Machine Learning. 💡 I’m actively seeking collaborations in blockchain smart contract development. 📫 Reach me at +234 8147848004 to discuss exciting opportunities!
 
 
 <!---
