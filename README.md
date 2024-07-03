@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulsalam Abubakar</h1>
 <h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulsalam8" alt="abdulsalam8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdulsa12584723" target="blank"><img src="https://img.shields.io/twitter/follow/abdulsa12584723?logo=twitter&style=for-the-badge" alt="abdulsa12584723" /></a> </p>
