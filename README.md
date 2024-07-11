@@ -36,7 +36,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 🔭 I’m currently working on  ML model  
   
@@ -47,7 +47,7 @@
 <div align="center">❓ Ask me about anything related to Nodejs related technologies</div>  
 
 
-</td><td valign="top" width="50%">
+
 
 
 
