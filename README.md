@@ -41,10 +41,10 @@
 🔭 I’m currently working on  ML model  
   
 
-<div align="center">🌱 I’m currently learning TensorFlow</div>  
+🌱 I’m currently learning TensorFlow
   
 
-<div align="center">❓ Ask me about anything related to Nodejs related technologies</div>  
+❓ Ask me about anything related to Nodejs related technologies
 
 
 
